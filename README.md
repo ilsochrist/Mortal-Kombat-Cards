@@ -1,4 +1,4 @@
-# MORTAL Kombat CARD GAME.
+# MORTAL KOMBAT CARD GAME
 
 This is a card game developed by me based in the famous movie Mortal Kombat.
 
